@@ -1,0 +1,14 @@
+# Node.js specific
+node_modules/
+*.env
+*.json
+*.log
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
